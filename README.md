@@ -1,12 +1,11 @@
-# blsmxiu47
+# GitHub Home Page for Wes Warriner (blsmxiu47)
 
-This is not a portfolio (have too many of those already). Could be a useful spot to share things in the future tho.
+Hi there! Thanks for stopping by~
 
-## Projects
+Please find my full-stack dev portfolio here: [https://blsmxiu47.github.io/portfolio](https://blsmxiu47.github.io/portfolio)
 
-Maybe put a table here with repos+live demos
+## Other Links & Resources
 
-## Links & Resources
-
-* [GitHub](https://github.com/blsmxiu47)
-
+* [Data & NLP Portfolio](http://data-fluent.com) (pretty dated static site from many years ago.. embarrassing now but it's kinda cute ngl)
+* [My GitHub](https://github.com/blsmxiu47)
+* [My LinkedIn](https://linkedin.com/in/wes-warriner)
